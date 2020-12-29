@@ -1,0 +1,14 @@
+p.text{
+border-style:solid;
+border-color:rgb(0,0,255,0.9);
+background-color:lightgrey;
+border-top-color:green;
+border-bottom-color:red;
+border-width:10px;
+border-left-width:20px;
+border-right-width:20px;
+}
+p.text1{
+border:5px solid green;
+border-radius:15px 15px;
+}
