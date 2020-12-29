@@ -1,0 +1,19 @@
+h1{
+text-align:center;
+color:red;
+text-decoration:underline;
+text-decoration-color:green;
+text-decoration-style:wavy;
+text-transform:uppercase;
+text-shadow:3px 2px blue;
+}
+p{
+text-indent:70px;
+text-align:justify;
+letter-spacing:2px;
+word-spacing;5px;
+line-height:20px;
+}
+a{
+text-decoration:none;
+}
