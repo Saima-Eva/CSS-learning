@@ -1,0 +1,7 @@
+p{
+border:5px solid green;
+outline-style:inset;
+outline-color:red;
+outline-width:thick;
+outline-offset:5px;
+}
