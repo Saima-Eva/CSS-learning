@@ -1,0 +1,12 @@
+.background{
+width:600px;
+height:500px;
+border:2px solid red;
+background-image:linear-gradient(to left ,red,yellow,blue,green,orange,indigo,violet);
+}
+.background2{
+width:600px;
+height:500px;
+border:2px solid red;
+background-image:repeating-linear-gradient(red,yellow 10%,green 20%);
+}
