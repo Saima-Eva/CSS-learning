@@ -1,0 +1,22 @@
+.background{
+width:600px;
+height:500px;
+border:2px solid red;
+background-image:radial-gradient(red 5%,yellow 15%,green 60%);
+}
+
+.background2{
+width:600px;
+height:500px;
+border:2px solid red;
+background-image:radial-gradient(closest-corner at 60% 55%,red ,yellow ,blue );
+float:right;
+}
+
+.background3{
+width:600px;
+height:500px;
+border:2px solid red;
+background-image:repeating-radial-gradient(red ,yellow 10%, black 15% );
+
+}
