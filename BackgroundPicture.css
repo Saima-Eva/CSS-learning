@@ -1,0 +1,16 @@
+.background{
+width:700px;
+height:500px;
+border:2px solid red;
+background-image:url("5.jpg");
+}
+
+.background2{
+width:700px;
+height:500px;
+border:2px solid red;
+background-image:url("5.jpg");
+background-repeat:repeat-y;
+float:right;
+
+}
