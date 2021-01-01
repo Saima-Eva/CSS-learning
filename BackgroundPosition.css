@@ -1,0 +1,8 @@
+.background{
+width:700px;
+height:500px;
+border:2px solid red;
+background-image:url("sunflower.jpg");
+background-repeat:no-repeat;
+background-position:center;
+}
