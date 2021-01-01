@@ -1,0 +1,9 @@
+.background{
+width:900px;
+height:500px;
+border:2px solid red;
+background-image:linear-gradient(red,yellow),url("rose.jpg");
+background-repeat:no-repeat;
+background-size:1000px 500px;
+background-blend-mode:multiply;
+}
