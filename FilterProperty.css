@@ -1,0 +1,10 @@
+.background{
+width:600px;
+height:375px;
+border:2px solid red;
+
+}
+
+img{
+filter:blur(5px);
+}
