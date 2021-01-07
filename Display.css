@@ -1,0 +1,14 @@
+.background{
+
+}
+
+p{
+color:red;
+display:inline;
+}
+
+li{
+display:inline;
+background-color:red;
+border:1px solid white;
+}

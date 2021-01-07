@@ -1,0 +1,10 @@
+.background{
+column-count:3;
+column-gap:25px;
+column-rule-style:solid;
+column-rule-color:red;
+column-rule-width:15px;
+}
+h1{
+column-span:all;
+}
