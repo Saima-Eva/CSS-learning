@@ -1,0 +1,7 @@
+.animation{
+height:100px;width:100px;background:red;
+transition:width 5s cubic-bezier(0.1,0.7,1.0,0.1) 1s;
+}
+.animation:hover{
+width:700px; 
+}
