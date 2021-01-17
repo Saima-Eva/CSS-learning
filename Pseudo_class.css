@@ -1,0 +1,11 @@
+h1:first-of-type
+{
+color:red;
+
+}
+div:empty{
+border:1px solid red;
+width:100%;
+height:10px;
+
+}
