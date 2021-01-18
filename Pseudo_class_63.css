@@ -1,0 +1,9 @@
+sup{
+	color:red;
+}
+input:required{
+	border:1px solid red;
+}
+input:optional{
+	background:blue;
+}
