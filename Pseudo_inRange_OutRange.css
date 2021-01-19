@@ -1,0 +1,18 @@
+sup{
+	color:red;
+}
+input:required{
+	border:1px solid red;
+}
+input:optional{
+	background:blue;
+}
+input:in-range{
+	color:green;
+	
+}
+input:out-of-range{
+	background:red;
+	
+	
+}
